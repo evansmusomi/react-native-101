@@ -1,0 +1,4 @@
+{
+    "manifestPort": 8082,
+    "packagerPort": 8081
+}

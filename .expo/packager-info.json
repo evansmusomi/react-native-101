@@ -1,5 +1,5 @@
 {
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null
+  "expoServerPort": 8082,
+  "packagerPort": 8081,
+  "packagerPid": 6561
 }
